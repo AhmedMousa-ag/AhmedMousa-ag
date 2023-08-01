@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Certified Tensorflow developer by Google! and MLOps by DeepLearning.AI 
+- [Certified Tensorflow developer](https://www.credential.net/92f555a3-4931-4d23-8b08-3c848ced5b30) by Google! and [MLOps by DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/certificate/ZGX9W78QQ45J) 
 - 🔭 I’m currently working on MLOps, Data Pipelines, ScyllaDB, and Kubernetes.
 - 🌱 I’m currently learning Golang!
 - 💬 Ask me about Machine Learning, MLOps, Kubernetes, Working on the cloud, Airflow, Data Pipelines, and ScyllaDB.
