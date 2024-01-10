@@ -1,7 +1,7 @@
 
 - [Certified Tensorflow developer](https://www.credential.net/92f555a3-4931-4d23-8b08-3c848ced5b30) <img src="https://github.com/AhmedMousa-ag/AhmedMousa-ag/assets/59775002/fc91db7b-36fb-42b1-92cd-5b1c254c5408" alt="drawing" style="width:60px;"/> by Google! and [MLOps by DeepLearning.AI](https://www.coursera.org/account/accomplishments/specialization/certificate/ZGX9W78QQ45J) 
 - 🔭 I’m currently working on MLOps, Data Pipelines, ScyllaDB, and Kubernetes.
-- 🌱 I’m currently building a new package for MLOps written in Golang!
+- 🌱 I’m currently building an open-source project for MLOps written in Golang & Rust!
 - 💬 Ask me about Machine Learning, MLOps, Kubernetes, Working on the cloud, Airflow, Data Pipelines, and ScyllaDB.
 - 📫 How to reach me: akaremmousa@gmail.com.
 - ⚡ Fun fact: It all started as a fun hobby to make my own games!
