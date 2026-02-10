@@ -6,7 +6,7 @@
 
 I build **production-ready AI systems** and **high-performance backend services**.
 
-My focus is on **LLMs, RAG pipelines, MLOps**, and **Rust-based distributed systems**, with a strong emphasis on scalability, reliability, and clean architecture.
+My focus is on **Machine Learning, DevOps, MLOps, Backend**, and **Distributed Systems**, with a strong emphasis on scalability, reliability, and clean architecture.
 
 ---
 
