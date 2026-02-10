@@ -14,6 +14,7 @@ My focus is on **Machine Learning, DevOps, MLOps, Backend**, and **Distributed S
 
 * 🤖 **Artificial Intelligence**
 
+  * Computer Vision.
   * LLMs (HuggingFace, Finetune LLMs, GPT, Claude, Gemini)
   * RAG systems & agentic workflows
   * NLP, OCR, voice assistants
