@@ -8,6 +8,7 @@ I build **production-ready AI systems** and **high-performance backend services*
 
 My focus is on **Machine Learning, DevOps, MLOps, Backend**, and **Distributed Systems**, with a strong emphasis on scalability, reliability, and clean architecture.
 
+AWS Certified and ex-TensorFlow Certified (2022-2025).
 ---
 
 ## 🧠 Core Focus
